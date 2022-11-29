@@ -2,7 +2,7 @@
 
 ### I'm a videogame developer, 3D artists, 2D artist and web programmer
 
-###About Me
+### About Me 🧔
 I am a very pasionated person for the videogames who wants to create his own projects, I know about programing, specially for making mechanics, modelings for low poly projects and animating in blender, I studied Data Systematization and I'm currently studying animation 3D, I'm good working on a team and solving problems, and I love to create artistic projects in the way of videogames or animations
 
 ## Technologies that I use💻
