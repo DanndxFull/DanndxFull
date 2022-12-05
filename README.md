@@ -1,4 +1,4 @@
-## Hi there I am Daniel Torres 👋
+<img src="https://raw.githubusercontent.com/DanndxFull/DanndxFull/main/VideoGame%20Developer.png"/>
 
 ### I'm a videogame developer, 3D artists, 2D artist and web programmer
 
