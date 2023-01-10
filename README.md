@@ -52,10 +52,6 @@ I am a very pasionated person for the videogames who wants to create his own pro
 ## Some of my projects in videogames are in uploaded in the page itch.io 
 <h1><a href="https://danndxfull.itch.io">My VideoGames</a></h1>
 
-## My Stats in Github
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danndxfull&theme=dark&,dockerfile&hide=html" alt="snakydh" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=danndxfull&theme=dark&show_icons=true&line_height=27&" alt="snakydh" />
-
 <!--
 **DanndxFull/DanndxFull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
