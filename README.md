@@ -52,6 +52,18 @@ I am a very pasionated person for the videogames who wants to create his own pro
 ## Some of my projects in videogames are in uploaded in the page itch.io 
 <h1><a href="https://danndxfull.itch.io">My VideoGames</a></h1>
 
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<div class="stats" align="center">
+
+![Programming Gym's GitHub Stats]( https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanndxFull&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DanndxFull&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages]( https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanndxFull&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
 <!--
 **DanndxFull/DanndxFull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
