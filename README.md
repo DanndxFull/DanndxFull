@@ -46,7 +46,7 @@ I am a very pasionated person for the videogames who wants to create his own pro
 * Pencil drawings 🎨
 * Modeling and animating in 3D
 
-### 🌱 I’m currently learning Development as a Junior Unity Developer in Generation Colombia
+### 🌱 I’m graduated as a Junior Unity Developer in Generation Colombia
 
 
 ## Some of my projects in videogames are in uploaded in the page itch.io 
