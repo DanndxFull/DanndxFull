@@ -3,31 +3,39 @@
 ### I'm a videogame developer, 3D artists, 2D artist and web programmer
 
 ### About Me 🧔
-I am a very pasionated person for the videogames who wants to create his own projects, I know about programing, specially for making mechanics, modelings for low poly projects and animating in blender, I studied Data Systematization and I'm currently studying animation 3D, I'm good working on a team and solving problems, and I love to create artistic projects in the way of videogames or animations
+<p>
+Videogame and interactive experience developer, specialising in Unity and proficient in languages such as C#, Node.js, and JavaScript. I have worked on online and cross-platform 3D projects, excelling in programming interactive environments. Additionally, I have experience in developing applications with artificial intelligence integration, allowing me to create innovative and functional solutions in the technology sector.
+</p>
 
 ## Technologies that I use💻
 <h3> For VideoGames 🎮</h3>
   <p align="center">
+    I specialize in developing mechanics for interactive applications using Unity, with expertise in C# and JavaScript. I have strong proficiency in design patterns such as Observer, Singleton, and Object Pool, among others.
+    <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,unity" width="300"/>
-  </a>
-</p>
-<h3> For Art 🎨</h3>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender" width="100"/>
+    <img src="https://skillicons.dev/icons?i=git,github,cs,unity,js" width="300"/>
   </a>
 </p>
 <h3> For WEB</h3>
   <p align="center">
+    I have expertise in developing interactive and static web applications, covering programming with HTML, CSS, and JavaScript, as well as deployment and database management. I have experience working with platforms like AWS and Google Cloud for deployments, and with database systems such as PostgreSQL and MySQL.
+    <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,bootstrap,css,figma,heroku,java,mysql,postgres" width="500"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud" width="125"/>
   </a>
 </p>
 <h3> Dev Suite</h3>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio" width="200"/>
+  </a>
+</p>
+<h3> For Art 🎨</h3>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender" width="100"/>
   </a>
 </p>
 <h3> Social Media</h3>
@@ -47,6 +55,7 @@ I am a very pasionated person for the videogames who wants to create his own pro
 * Modeling and animating in 3D
 
 ### 🌱 I’m graduated as a Junior Unity Developer in Generation Colombia
+### 📖 I’m graduated as a DataSystematisationTechnologist at UNIVERSIDADDISTRITALFRANCISCOJOSÉDECALDAS.
 
 
 ## Some of my projects in videogames are in uploaded in the page itch.io 
