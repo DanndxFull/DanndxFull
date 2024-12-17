@@ -13,7 +13,7 @@ Videogame and interactive experience developer, specialising in Unity and profic
     I specialize in developing mechanics for interactive applications using Unity, with expertise in C# and JavaScript. I have strong proficiency in design patterns such as Observer, Singleton, and Object Pool, among others.
     <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,unity,js" width="300"/>
+    <img src="https://skillicons.dev/icons?i=git,github,cs,unity,unrealengine,js,cpp" width="300"/>
   </a>
 </p>
 <h3> For WEB</h3>
